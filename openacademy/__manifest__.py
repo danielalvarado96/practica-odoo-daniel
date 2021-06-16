@@ -5,10 +5,7 @@
     'summary': """Manage trainings""",
 
     'description': """
-        Open Academy module for managing trainings:
-            - training courses
-            - training sessions
-            - attendees registration
+        Open Academy modulo de prueba
     """,
 
     'author': "Daniel",
