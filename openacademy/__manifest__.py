@@ -2,7 +2,7 @@
 {
     'name': "Open Academy",
 
-    'summary': """Manage trainings""",
+    'summary': """Manage courses""",
 
     'description': """
         Open Academy modulo de prueba
