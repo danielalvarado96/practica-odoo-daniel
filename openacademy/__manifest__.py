@@ -8,7 +8,7 @@
         Open Academy modulo de prueba
     """,
 
-    'author': "Daniel Alvarado",
+    'author': "Daniel Alvarado Mayorga",
     'website': "http://www.daniel.com",
 
     # Categories can be used to filter modules in modules listing
